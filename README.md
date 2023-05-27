@@ -1,4 +1,4 @@
-# PYTHON_GAME1 Brick Evaiser
+# PYTHON_GAME1 Brick Evasiver
 Simple 2-d game using python(pygame)
 
 
