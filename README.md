@@ -3,5 +3,5 @@ Simple 2-d game using python(pygame)
 
 
 How to run
-- You need visual code studio or any IDLE.
+- You need visual code studio or any IDE.
 - Press play button and play.
